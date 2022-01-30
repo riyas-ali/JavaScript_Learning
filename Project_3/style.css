@@ -1,0 +1,5 @@
+* { margin: 0; padding: 0; box-sizing: border-box;}
+body { display: flex; justify-content: center;align-items: center; height: 100vh; flex-direction: column; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: #fff; background-color: #49B6FF}
+h1 { margin-bottom: 30px;}
+#info { display: grid; grid-template-columns: 1fr 1fr;}
+#info div { padding: 3rem; background-color: #779BE7; margin: 0.5rem; border-radius: 10px; text-align: center;}
