@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image change on button click</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <img id="bulb-image" src="images/pic_bulboff.gif" alt="Bulb image">
+    <div>
+        <button type="button" onclick="document.getElementById('bulb-image').src='images/pic_bulbon.gif'">Turn On</button>
+        <button type="button" onclick="document.getElementById('bulb-image').src='images/pic_bulboff.gif'">Turn Off</button>
+    </div>
+</body>
+</html>
