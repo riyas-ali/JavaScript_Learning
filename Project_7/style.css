@@ -1,0 +1,83 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: #0cbaba;
+  background-image: linear-gradient(150deg, #0cbaba 0%, #380036 74%);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100vh;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.login {
+  background-color: #fff;
+  width: 300px;
+  padding: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 5px rgba(255, 255, 255, 0.24);
+  -webkit-box-shadow: 0px 0px 10px 5px rgba(255, 255, 255, 0.24);
+  -moz-box-shadow: 0px 0px 10px 5px rgba(255, 255, 255, 0.24);
+}
+
+h3 {
+  margin: 0;
+  font-size: 150%;
+  text-transform: uppercase;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.password, .email {
+  width: 100%;
+  margin: 10px 0;
+  border: none;
+  border-bottom: 1px solid #0cbaba;
+  padding: 10px;
+  outline-color: #0cbaba;
+}
+
+.login div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: start;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.checkbox {
+  margin-right: 100px;
+}
+
+button {
+  width: 100%;
+  margin-top: 15px;
+  padding: 8px;
+  border: none;
+  color: #fff;
+  background-color: #0cbaba;
+  cursor: pointer;
+}
+/*# sourceMappingURL=style.css.map */
