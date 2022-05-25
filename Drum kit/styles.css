@@ -1,4 +1,49 @@
 body {
   background-color: #0d1117;
 }
+
+body .drum {
+  color: #c9d1d9;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100vh;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+body .drum .keys .key {
+  width: 100px;
+  border: 2px solid #30363d;
+  margin: 0 5px;
+  font-family: 'Courier New', Courier, monospace;
+  border-radius: 5px;
+  text-align: center;
+  padding: 20px 0;
+  -webkit-transition: all 0.07s;
+  transition: all 0.07s;
+}
+
+body .drum .keys .key.playing {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+  border-color: #e2b714;
+  -webkit-box-shadow: 0 0 10px #e2b714;
+          box-shadow: 0 0 10px #e2b714;
+}
+
+body .drum .keys .key kbd {
+  font-size: 50px;
+}
+
+body .drum .keys .key span {
+  display: block;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #e2b714;
+}
 /*# sourceMappingURL=styles.css.map */

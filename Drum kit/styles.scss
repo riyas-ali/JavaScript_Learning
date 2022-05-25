@@ -1,3 +1,36 @@
 body {
     background-color: #0d1117;
+    .drum {
+        color: #c9d1d9;
+        display: flex;
+        align-items: center;
+        height: 100vh;
+        justify-content: center;
+        .keys {
+            .key {
+                width: 100px;
+                border: 2px solid #30363d;
+                margin: 0 5px;
+                font-family: 'Courier New', Courier, monospace;
+                border-radius: 5px;
+                text-align: center;
+                padding: 20px 0;
+                transition: all 0.07s;
+                &.playing {
+                    transform: scale(1.1);
+                    border-color: #e2b714;
+                    box-shadow: 0 0 10px #e2b714;
+                }
+                kbd {
+                    font-size: 50px;
+                }
+                span {
+                    display: block;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                    color: #e2b714;
+                }
+            }
+        }
+    }
 }
