@@ -24,3 +24,7 @@ Ref:-https://www.youtube.com/watch?v=9eif30i26jg&list=PLu8EoSxDXHP6CGK4YVJhL_VWe
 Day 6<br>
 Type Ahead<br>
 Ref:-https://www.youtube.com/watch?v=y4gZMJKAeWs&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=6
+
+Day 7<br>
+Array Cardio Day 2<br>
+Ref:-https://www.youtube.com/watch?v=QNmRfyNg1lw&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=7
