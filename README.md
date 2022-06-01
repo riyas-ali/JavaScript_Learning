@@ -28,3 +28,7 @@ Ref:-https://www.youtube.com/watch?v=y4gZMJKAeWs&list=PLu8EoSxDXHP6CGK4YVJhL_VWe
 Day 7<br>
 Array Cardio Day 2<br>
 Ref:-https://www.youtube.com/watch?v=QNmRfyNg1lw&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=7
+
+Day 8<br>
+Fun with HTML5 Canvas<br>
+Ref:-https://www.youtube.com/watch?v=8ZGAzJ0drl0&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=8
