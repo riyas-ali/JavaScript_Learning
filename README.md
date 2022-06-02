@@ -32,3 +32,7 @@ Ref:-https://www.youtube.com/watch?v=QNmRfyNg1lw&list=PLu8EoSxDXHP6CGK4YVJhL_VWe
 Day 8<br>
 Fun with HTML5 Canvas<br>
 Ref:-https://www.youtube.com/watch?v=8ZGAzJ0drl0&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=8
+
+Day 9<br>
+Dev Tools Domination<br>
+Ref:-https://www.youtube.com/watch?v=xkzDaKwinA8&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=9
